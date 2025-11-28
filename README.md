@@ -46,11 +46,22 @@ A comprehensive web-based tool that extracts YouTube video transcripts, generate
 ## 🚀 Installation
 
 
+
+---
+
+# ⭐ Final Output (Copy–Paste This)
+
+```markdown
 ## 1. Clone the Repository
 ```bash
 git clone <your-repo-url>
 cd Youtube_Transcript_Summary
+```
 
-# 2. Create Virtual Environment
+## 2. Create Virtual Environment
 ```bash
 python -m venv venv
+```
+
+
+
