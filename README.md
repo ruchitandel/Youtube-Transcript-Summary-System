@@ -51,7 +51,6 @@ A comprehensive web-based tool that extracts YouTube video transcripts, generate
 
 # ⭐ Final Output (Copy–Paste This)
 
-```markdown
 ## 1. Clone the Repository
 ```bash
 git clone <your-repo-url>
